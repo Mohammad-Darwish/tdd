@@ -1,0 +1,25 @@
+1-Requirments:
+Basket:
+1- Add product.
+2- Delete product
+3- Show prices of individuals product in the basket.
+4- Show the price of the whole basket.
+
+limit of the basket: 20 is the max
+no limits of the basket cash.
+From the same product the maximum is 20.
+Product info:
+1- id
+2- name
+3- short description
+4- category
+5- cost
+-----------------------
+2- Apis
+Basket
+1- creation.
+2- Delete/ Destroy.
+3- Get the basket
+
+3- Add to the basket.
+4- Delete
